@@ -13,11 +13,11 @@ Usage
 -----
 Just click on the menu entry "Import keywords from CSV file". 
 
-![Calling the plugin within Lightroom](/Docs/screenshot-lr-1.png "Calling the plugin within Lightroom")
+![Calling the plugin within Lightroom](https://raw.github.com/tkampp/lr-keyword-importer/master/Docs/screenshot-lr-1.png "Calling the plugin within Lightroom")
 
 You can then select a CSV file that corresponds to the following simple syntax: Filename and Keyword-Path separated by ";". 
 
-    D:\Users\Photos\IMG_1218241000.JPG;Location\Europe\Iceland\Region\Suðurland\Hengilssvæðið
+    D:\Users\Photos\IMG_1218241000.JPG;Location\Europe\Iceland\Region\Suï¿½urland\Hengilssvï¿½ï¿½iï¿½
     D:\Users\Photos\IMG_1218241000.JPG;Misc\Nature\River
     D:\Users\Photos\IMG_1218241000.JPG;People\Test
 
