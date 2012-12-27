@@ -17,7 +17,7 @@ Just click on the menu entry "Import keywords from CSV file".
 
 You can then select a CSV file that corresponds to the following simple syntax: Filename and Keyword-Path separated by ";". 
 
-    D:\Users\Photos\IMG_1218241000.JPG;Location\Europe\Iceland\Region\Su�urland\Hengilssv��i�
+    D:\Users\Photos\IMG_1218241000.JPG;Location\Europe\Iceland\Region\Suðurland\Hengilssvæðið
     D:\Users\Photos\IMG_1218241000.JPG;Misc\Nature\River
     D:\Users\Photos\IMG_1218241000.JPG;People\Test
 
